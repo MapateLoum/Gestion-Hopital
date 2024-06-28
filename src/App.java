@@ -25,12 +25,12 @@ public class App
     System.out.println("                                |  5        |  Rendez-vous               |");
     System.out.println("                                +-----------+----------------------------+");
 
-    System.out.println("");
+    System.out.println();
     try 
 		{
 			System.out.println("Veuiller faire votre choix :");
 			int choix = scanner.nextInt();
-			System.out.println("");
+			System.out.println();
       switch (choix) 
 		 {
 			  case 1:
